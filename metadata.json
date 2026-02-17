@@ -1,0 +1,7 @@
+{
+  "description": "Shikha Loan - Micro-finance Web Platform",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "name": "App"
+}
